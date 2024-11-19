@@ -1,5 +1,5 @@
 Documentação do Projeto: Informações sobre Países
-Descrição
+Descrição:
 
 Este projeto permite que os usuários busquem informações sobre diferentes países. Ao digitar o nome de um país, o sistema retorna informações como a capital, população, área e região do país, além de exibir a bandeira correspondente.
 Estrutura do Arquivo
